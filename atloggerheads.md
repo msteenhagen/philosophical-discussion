@@ -1,4 +1,13 @@
-# At loggerheads: Collingwood and philosophical discussion
+---
+title: at loggerheads
+subtile: Collingwood and philosophical discussion
+draft: To-become-a-draft
+author:
+- name: Maarten Steenhagen
+  affiliation: university of antwerp
+  email: maarten.steenhagen@uantwerpen.be
+date: 2015
+---
 
 R.G. Collingwood often rejects the methods of specific philosophical schools. Yet he is not always clear about his reasons. His rejection of a combative style of philosophical discussion at conferences and in seminars is a case in point. In this paper I identify Collingwood's conception of two modes of philosophical debate. I bring out how the root of his criticism of one of them can only be adequately understood when framed within his general account of intellectual change. Further, I suggest that Collingwood's point has a broader application. His criticism of his colleagues' behaviour can help us understand better what is wrong with combative styles of philosophy more generally. Hence, Collingwood's arguments aid the increasingly central project of improving the way philosophy is done.
 
